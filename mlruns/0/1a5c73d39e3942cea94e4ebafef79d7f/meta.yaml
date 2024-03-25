@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOPs%20projects/Chest-Disease/mlruns/0/1a5c73d39e3942cea94e4ebafef79d7f/artifacts
+end_time: 1711389004025
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1a5c73d39e3942cea94e4ebafef79d7f
+run_name: powerful-bat-283
+run_uuid: 1a5c73d39e3942cea94e4ebafef79d7f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711388994543
+status: 3
+tags: []
+user_id: nalla

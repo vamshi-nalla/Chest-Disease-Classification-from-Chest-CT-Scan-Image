@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOPs%20projects/Chest-Disease/mlruns/0/2aca693b20ce407d8f8b09b0dcda97d0/artifacts
+end_time: 1711619500001
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2aca693b20ce407d8f8b09b0dcda97d0
+run_name: likeable-dolphin-283
+run_uuid: 2aca693b20ce407d8f8b09b0dcda97d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711619490780
+status: 3
+tags: []
+user_id: nalla
